@@ -3,3 +3,8 @@ A novel degeneracy detection method is proposed for LIDAR SLAM, based on a point
 
 
 Code is being organized, stay tuned...
+
+
+
+https://github.com/jisehua/Degenerate-Detection/assets/89381045/50744cab-6248-4e52-8b5d-8fa28f6f5884
+
