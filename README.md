@@ -1,6 +1,5 @@
 # Degenerate-Detection
-A novel degeneracy detection method is proposed for LIDAR SLAM, based on a point-to-distribution approach. The method introduces a new degeneracy factor by incorporating local geometric model information. Additionally, to ensure the validity of the local geometric information in various scenarios, an efficient voxel segmentation strategy is designed, leveraging the density of the point cloud distribution. Comparative analysis demonstrates that the proposed method achieves higher accuracy and robustness compared to existing methods. Moreover, it effectively mitigates noise interference and reduces the occurrence of false detections.
-
+This project presents a point-to-distribution based approach for detecting LiDAR SLAM degeneracy. A novel degeneracy factor is introduced, leveraging local geometric model information to accurately characterize the algorithm's degeneracy state. This method not only effectively reduces noise interference and minimizes false detections but also enhances overall robustness.
 
 Code is being organized, stay tuned...
 
