@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ji/9tian_robot/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ji/9tian_robot/src/hdl_localization/fast_gicp/include/**",
+        "/home/ji/9tian_robot/src/hdl_localization/hdl_global_localization/include/**",
+        "/home/ji/9tian_robot/src/hdl_localization/hdl_localization/include/**",
+        "/home/ji/9tian_robot/src/lio_sam/include/**",
+        "/home/ji/9tian_robot/src/hdl_localization/ndt_omp/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,15 @@
+<launch>
+
+    <param name="resolution_value" value="2.0"/>
+
+    <param name="save_path" value="/home/ji/catkin_ws/src/degeneracy_detection/msg/D_ours.txt"/>
+
+    <node name="degeneracy_detection"  pkg="degeneracy_detection" type="align" output="screen">
+
+        <remap from="/velodyne_points" to="/velodyne_points" />   
+
+    </node>
+
+    <node pkg="rviz" type="rviz" name="rviz" args="-d $(find degeneracy_detection)/rviz/rviz.rviz"/>
+
+</launch>
