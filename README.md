@@ -1,4 +1,6 @@
 # Degenerate-Detection
+
+# About
 This project presents a point-to-distribution based approach for detecting LiDAR SLAM degeneracy. A novel degeneracy factor is introduced, leveraging local geometric model information to accurately characterize the algorithm's degeneracy state. This method not only effectively reduces noise interference and minimizes false detections but also enhances overall robustness.
 
 Code is being organized, stay tuned...
