@@ -43,4 +43,4 @@ If you use our method in an academic work, please cite:
   roslaunch degeneracy_detection start.launch
   ```
 ## Notic
-The voxel segmentation method mentioned in the paper has not yet been fully organized; therefore, part of the code is being open-sourced first.
+The voxel segmentation method mentioned in the paper has not yet been fully organized. Therefore, part of the code is being open-sourced first.
