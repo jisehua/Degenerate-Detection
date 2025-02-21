@@ -1,4 +1,4 @@
-# Degenerate-Detection
+# Degenerate Detection
 
 ### About
 This project presents a point-to-distribution based approach for detecting LiDAR SLAM degeneracy. A novel degeneracy factor is introduced, leveraging local geometric model information to accurately characterize the algorithm's degeneracy state. This method not only effectively reduces noise interference and minimizes false detections but also enhances overall robustness.
@@ -6,8 +6,12 @@ This project presents a point-to-distribution based approach for detecting LiDAR
 ### Video
 https://github.com/jisehua/Degenerate-Detection/assets/89381045/50744cab-6248-4e52-8b5d-8fa28f6f5884
 
+https://github.com/user-attachments/assets/78d88d44-d583-4cd4-b9da-3bb843d12d64
+
 ### Related Publications:
-Sehua Ji, Weinan Chen, Zerong Su, Yisheng Guan, Jiehao Li, Hong Zhang, Haifei Zhu, **A Point-to-distribution Degeneracy Detection Factor for LiDAR SLAM using Local Geometric Models**, *IEEE ICRA 2024*.
+Sehua Ji, Weinan Chen, Zerong Su, Yisheng Guan, Jiehao Li, Hong Zhang, Haifei Zhu. **A Point-to-distribution Degeneracy Detection Factor for LiDAR SLAM using Local Geometric Models**, [C]//2024 *IEEE International Conference on Robotics and Automation(ICRA)*, pp. 12283-12289, 2024.
+
+Weinan Chen (Supervisor), Sehua Ji, Yisheng Guan, Haifei Zhu, Hong Zhang, **P2d-DO: Degeneracy Optimization for LiDAR SLAM with Point-to-Distribution Detection Factors**, *IEEE Robotics and Automation Letters*, vol. 10, no. 2, pp. 1489-1496, Feb. 2025.
 
 If you use our method in an academic work, please cite:
 ```
@@ -15,8 +19,20 @@ If you use our method in an academic work, please cite:
   title={A Point-to-distribution Degeneracy Detection Factor for LiDAR SLAM using Local Geometric Models},
   author={Sehua Ji, Weinan Chen, Zerong Su, Yisheng Guan, Jiehao Li, Hong Zhang, Haifei Zhu},
   journal={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={12283--12289},
   year={2024},
   pages={12283-12289},
+}
+```
+```
+@article{Chen2025P2dDO,
+  title={P2d-DO: Degeneracy Optimization for LiDAR SLAM With Point-to-Distribution Detection Factors},
+  author={Weinan Chen, Sehua Ji, Xubin Lin, Zhi-xin Yang, Wenzheng Chi, Yisheng Guan, Haifei Zhu, Hong Zhang},
+  journal={IEEE Robotics and Automation Letters},
+  year={2025},
+  no.={2},
+  volume={10},
+  pages={1489-1496}
 }
 ```
 
